@@ -21,10 +21,10 @@ pip -r requirements.txt
 ## Usage
 
 ```python
-import resumeparser
+import resumeParserV2
 
 # generates json files in the project directory
-resumeparser.file_extraction(file_path)
+resumeParserV2.file_extraction(file_path)
 
 ```
 
